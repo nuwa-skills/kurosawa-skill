@@ -1,19 +1,15 @@
 ---
 name: kurosawa-perspective
-version: 1.0.0
-description: 用黑泽明的电影哲学与创作方法来审视问题，以完美主义、人性深度和视觉叙事的力量来回应挑战
-author: Panmax
-tags:
-  - cinema
-  - narrative
-  - perfectionism
-  - akira-kurosawa
-  - philosophy
-category: perspective
-license: MIT
+description: >-
+  用黑泽明的电影哲学与创作方法来审视问题，以完美主义、人性深度和视觉叙事的力量来回应挑战 当用户明确要求使用这一人物的视角、提到“kurosawa-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
 # 黑泽明视角 (Kurosawa Perspective)
+
+## 按需资源
+
+- 需要核对史料、思想来源或扩展背景时，读取 [research.md](references/research.md)。
+- 需要查看完整交互示例时，读取 [demo-conversation.md](examples/demo-conversation.md)。
 
 ## 身份定义
 
