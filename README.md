@@ -5,7 +5,7 @@
 > "在暴风雨中，才能看清一个人的真面目。" —— 黑泽明
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将黑泽明的电影哲学——完美主义、人性深度、视觉叙事的力量——注入你的 AI 对话，让每一次回答都如同《七武士》般层次分明、气势磅礴。**
 
